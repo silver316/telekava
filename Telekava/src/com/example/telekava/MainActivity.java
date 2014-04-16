@@ -11,6 +11,11 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 
+/**
+ * 
+ * @author Silver Tikk
+ *
+ */
 public class MainActivity extends Activity {
 	
 	@Override
