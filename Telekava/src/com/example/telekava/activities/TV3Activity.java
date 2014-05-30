@@ -8,6 +8,10 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.KeyEvent;
 
+/**
+ * TV3 vaate klass. Vajab implementeerimist.
+ * @author Silver Tikk
+ */
 public class TV3Activity extends FragmentActivity {
 	
 	@Override

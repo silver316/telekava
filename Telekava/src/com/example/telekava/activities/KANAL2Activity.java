@@ -8,6 +8,10 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.KeyEvent;
 
+/**
+ * KANAL2 vaate klass. Vajab implementeerimist.
+ * @author Silver Tikk
+ */
 public class KANAL2Activity extends FragmentActivity {
 	
 	@Override
